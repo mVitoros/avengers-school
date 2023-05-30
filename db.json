@@ -24,7 +24,7 @@
     },
     {
       "name": "Natasha Romanoff",
-      "alias": "Black widow",
+      "alias": "Black Widow",
       "gender": "Female",
       "dob": "December 3, 1984",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc0DEzKCXS8pjwbIhxoe7qWUe8QuD-Eg97Uw&usqp=CAU",
@@ -48,7 +48,7 @@
       "alias": "Thor",
       "gender": "Male",
       "dob": "December 3, 1984",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc0DEzKCXS8pjwbIhxoe7qWUe8QuD-Eg97Uw&usqp=CAU",
+      "image": "https://cdn.britannica.com/73/182873-050-E1C686F4/Chris-Hemsworth-Thor-Thor-The-Dark-World.jpg",
       "lessons": {
         "martialArts": {
           "ects": 3,

@@ -11,7 +11,7 @@ const Search = ({ value, label, onChange }: SearchProps) => {
       {label && <Styled.Label htmlFor="input-name">{label}</Styled.Label>}
       <Styled.Input
         id="input-name"
-        onInput={(event) => inputChangeHandler(event)}
+        onInput={inputChangeHandler}
         value={value}
       />
     </Styled.Search>
